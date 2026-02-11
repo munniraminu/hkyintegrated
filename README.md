@@ -1,6 +1,17 @@
-# SHOE STORE
-hky project for shoe store
- 
-PHP and MySQL Project on Shoe Shop Management System is a web-based project and it has been developed in PHP and MySQL and we can manage Order, Shipment, Payment, Customer, Shopping Cart and Product from this project. The main objective to develop Shoe Shop Management System PHP and MySQL Project is to overcome the manual errors and make a computerized system. 
-In this project, there is various type of modules available to manage Shopping Cart, Shipment, Order. We can also generate reports for delivery, Order, Customer, Product. Here the Order module manages all the operations of Order, Shipment module can manage Shipment, Payment module is normally developed for managing Payment, Customer module manages Customer operations, Shopping Cart module has been implemented to manage Shopping Cart. 
-The project is run in XAMP, WAMP, MAMP or LAMP server. We have implemented advance search feature for searching records on various products and also admin can perform Create, read, update and delete (CRUD) operations on Payment, Customer, Product. In this project, all the modules like Order, Customer, Shipment are tightly coupled and we can track the information easily. 
+# HKY INTEGRATED CONCEPT LTD.
+Dear sir,
+congratulation HKY for having new software for your company,
+now you have a secured software with secured data base that
+has validity of 50 years, as it is written under our terms 
+and condition.
+Your have already paid:
+domain: hkyintegrated.com
+domain charge: 53,000.00 naira on 29-01-2026
+hosting: 106,064.00 naira on 22-01-2026
+Your remainig out standing payment for
+cloud space for your company data base
+and security for a period of 50 years is
+cloud space and security: 114,855.00 naira
+
+FROM AFRIHOST
+
