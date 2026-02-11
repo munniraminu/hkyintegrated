@@ -12,6 +12,8 @@ Your remainig out standing payment for
 cloud space for your company data base
 and security for a period of 50 years is
 cloud space and security: 114,855.00 naira
+and your domain and hosting charge will 
+expired on 12-02-2026 at 7:37 PM
 
 FROM AFRIHOST
 
